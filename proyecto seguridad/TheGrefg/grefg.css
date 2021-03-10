@@ -1,0 +1,35 @@
+body {
+    background-size: 2500px;
+    background-image:url(https://i.pinimg.com/736x/ac/8f/6d/ac8f6dd3811348ec46c857b2038ab770.jpg);
+    background-clip:url(https://i.pinimg.com/736x/ac/8f/6d/ac8f6dd3811348ec46c857b2038ab770.jpg);
+}
+p {
+  text-align: justify;
+  padding: 20px;
+  font: oblique bold 100%;
+  color:rgb(255, 255, 255);
+  font-size: 20px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+
+}
+
+h4{
+    color: rgb(255, 255, 255);
+}
+video {
+    
+    width: 50%;
+    height: 50%;
+}
+.Gref{
+	width: 75%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding: 10px 45px;
+  text-align: justify;
+  background-color: rgba(0, 0, 0, 0.507);
+  border: 4px solid rgb(255, 255, 255);
+}

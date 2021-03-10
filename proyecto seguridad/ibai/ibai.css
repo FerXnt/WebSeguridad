@@ -1,0 +1,39 @@
+body {
+    background-size: 200px;
+    background-image:url(https://eveniments.es/wp-content/uploads/2020/01/fondos-gif-para-paginas-web-con-movimiento-5.gif);
+    background-clip:url(https://youtu.be/qqDo9_GlhS8);
+}
+p {
+  text-align: justify;
+  font-family: monospace;
+  font-size: 20px;
+  
+  padding: 20px;
+  font: oblique bold 100%;
+  color: aliceblue;
+
+}
+.Auron{
+	width: 75%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding: 10px 45px;
+  text-align: justify;
+  background-color: rgba(9, 4, 83, 0.473);
+  border: 4px solid #111;
+}
+h1 {
+    color: cornsilk;
+    font-size: 40px;
+}
+
+h4{
+    color: cornsilk;
+    font-size: 40px;
+}
+video {
+    
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,38 @@
+body {
+    background-size: 200px;
+    background-image:url(https://victorzegarra.files.wordpress.com/2011/03/fondo-negro.gif);
+    background-clip:url(https://victorzegarra.files.wordpress.com/2011/03/fondo-negro.gif);
+}
+p {
+  text-align: justify;
+  padding: 20px;
+  font: oblique bold 100%;
+  color:white;
+  font-size: 18;
+}
+h1 {
+    color: cornsilk;
+    font-size: 40;
+}
+
+h4{
+    color: cornsilk;
+    font-size: 40;
+}
+video {
+    
+    width: 50%;
+    height: 50%;
+}
+.Xokas{
+	width: 75%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding: 10px 45px;
+  text-align: justify;
+  background-color: rgba(0, 0, 0, 0.507);
+  border: 4px solid rgb(255, 255, 255);
+}
+
+    

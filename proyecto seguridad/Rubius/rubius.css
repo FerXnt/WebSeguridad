@@ -1,0 +1,33 @@
+body {
+    background-size: 2500px;
+    background-image:url(https://i.pinimg.com/originals/9b/95/78/9b9578dd9fdcd8389b5976ad8f963747.gif);
+    background-clip:url(https://i.pinimg.com/originals/9b/95/78/9b9578dd9fdcd8389b5976ad8f963747.gif);
+}
+p {
+  text-align: justify;
+  padding: 20px;
+  font: oblique bold 100%;
+  color:rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h4{
+    color: rgb(255, 255, 255);
+}
+video {
+    
+    width: 50%;
+    height: 50%;
+}
+.Rubius{
+	width: 75%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding: 10px 45px;
+  text-align: justify;
+  background-color: rgb(0, 0, 0);
+  border: 4px solid rgb(255, 255, 255);
+}

@@ -1,0 +1,159 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-image: url("../img/fondo.jpg");
+}
+
+/* Barra de navegacion */
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-bottom: 40px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-right: 1px solid white;
+  font-family: monospace;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.logo {
+  float: right;
+  font-size: 15px;
+  background-image: url("../img/logo.png");
+  background-repeat: no-repeat;
+}
+.logo > a {
+  padding-left: 50px;
+}
+.logo > a:hover {
+  padding-left: 50px;
+  background-image: url("../img/logo.png");
+  background-repeat: no-repeat;
+}
+
+.cuerpo {
+  width: 75%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding: 10px 45px;
+  text-align: justify;
+  background-color: rgba(49, 1, 49, 0.836);
+  border: 4px solid #111;
+}
+p {
+  font-size: 1.5vw;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.logo-cabeza {
+  text-align: center;
+  width: auto;
+  height: 9vw;
+}
+div > img {
+  position: relative;
+  top: -40px;
+  width: 20vw;
+  border-radius: 20px;
+  border: 5px solid black;
+}
+
+/* Login */
+.contenedorLogin {
+  width: 50%;
+  height: 50%;
+  padding: 6vw;
+  margin: auto;
+  margin-top: 5vw;
+  background-color: rgba(255, 255, 255, 0.952);
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 25vw;
+  border: 0.5vw solid;
+}
+
+label,
+input,
+a {
+  font-family: "Courier New", Courier, monospace;
+}
+
+label {
+  text-align: left;
+  display: block;
+  margin: 10px;
+
+  font-size: 3vw;
+  color: purple;
+}
+
+input {
+  width: 100%;
+  height: 3vw;
+  margin-bottom: 2vw;
+  text-align: center;
+}
+
+div > form {
+  width: auto;
+  height: 100%;
+  margin: auto;
+}
+
+button {
+  display: block;
+  width: 15vw;
+  height: 6vw;
+  margin: auto;
+  margin-top: 2vw;
+  color: white;
+  border-radius: 50px;
+  background: rgb(147, 112, 216);
+}
+
+button > a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  font-size: 2vw;
+}
+
+/* Estilos tabla streamers.html */
+
+table {
+  width: 100%;
+  height: 100%;
+}
+table,
+tr,
+td {
+  font-size: 35px;
+  text-align: center;  
+  color: white;
+  
+}
+td > img {
+  width: 400px;
+  height: 400px;
+}
